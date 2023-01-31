@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/chx90633/Space%20Game-web-Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/chx90633/Space%20Game-web-Workflow/_build/latest?definitionId=3&branchName=main)
+[![Build status](https://dev.azure.com/optikey/optikey/_apis/build/status/OptiKey.OptiKey)](https://dev.azure.com/optikey/optikey/_build/latest?definitionId=-1)
 
 # Contributing
 
